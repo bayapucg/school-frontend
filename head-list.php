@@ -6,7 +6,7 @@
     <div class="col-sm-4">
         <div class="page-header float-left">
             <div class="page-title">
-                <h1>Campaign Scheduling</h1>
+                <h1>Head</h1>
             </div>
         </div>
     </div>
@@ -15,7 +15,7 @@
             <div class="page-title">
                 <ol class="breadcrumb text-right">
                     <li><a href="index.php">Home</a></li>
-                    <li>Campaign Scheduling</li>
+                    <li>Head</li>
                     <li>List</li>
                 </ol>
             </div>
@@ -30,41 +30,38 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <strong class="card-title">Schedule List</strong>
+                        <strong class="card-title pull-left"><h3>Head List</h3></strong>
+                        <a href="schoolhead.php" class="card-title pull-right btn-info btn-sm">+Add Head</a>
                     </div>
+					
                     <div class="card-body">
+					
                         <div class="table-responsive">
+						<table class="table table-striped table-bordered">
+						
                             <table id="bootstrap-data-table" class="table table-striped table-bordered">
                                 <thead>
                                     <tr>
-                                        <th>S.No</th>
-                                        <th>Type</th>
-                                        <th>Time</th>
-                                        <th>Start Date</th>
-                                        <th>End Date</th>
-                                        <th>Sms's / day</th>
-                                        <th>Group</th>
-                                        <th>Message</th>
+                                        <th>Image</th>
+                                        <th>Name</th>
+										<th>Qualification</th>
+                                        <th>Designation</th>
                                         <th>Action</th>
                                     </tr>
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td>1</td>
-                                        <td>xxxxxxxxx</td>
-                                        <td>9:00 AM</td>
-                                        <td>15-2-2017</td>
-                                        <td>17-2-2017</td>
-                                        <td>4</td>
-                                        <td>xxxxxx</td>
-                                        <td>xxxxxxxxxxxxxxxxxxx</td>
+                                        <td><img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;"></td>   
+                                        <td>john</td>
+                                        <td>Btech</td>
+                                        <td>principal</td>
                                         <td>
                                             <a href="#">
                                                 <button type="button" class="btn btn-sm social btn-info">
                                                     <i class="fa fa-eye"></i>
                                                 </button>
                                             </a>
-                                            <a href="edit_campaign_schedule.php">
+                                            <a href="edit-head.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
                                                 </button>
@@ -76,22 +73,18 @@
                                             </a>
                                         </td>
                                     </tr>
-                                    <tr>
-                                        <td>2</td>
-                                        <td>xxxxxxxxx</td>
-                                        <td>9:00 AM</td>
-                                        <td>15-2-2017</td>
-                                        <td>17-2-2017</td>
-                                        <td>4</td>
-                                        <td>xxxxxx</td>
-                                        <td>xxxxxxxxxxxxxxxxxxxxx</td>
+                                   <tr>
+                                        <td><img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;"></td>   
+                                        <td>john</td>
+                                        <td>Btech</td>
+                                        <td>principal</td>
                                         <td>
                                             <a href="#">
                                                 <button type="button" class="btn btn-sm social btn-info">
                                                     <i class="fa fa-eye"></i>
                                                 </button>
                                             </a>
-                                            <a href="edit_campaign_schedule.php">
+                                            <a href="edit-head.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
                                                 </button>
@@ -103,22 +96,18 @@
                                             </a>
                                         </td>
                                     </tr>
-                                    <tr>
-                                        <td>3</td>
-                                        <td>xxxxxxxxx</td>
-                                        <td>9:00 AM</td>
-                                        <td>15-2-2017</td>
-                                        <td>17-2-2017</td>
-                                        <td>4</td>
-                                        <td>xxxxxx</td>
-                                        <td>xxxxxxxxxxxxxxxxxxxx</td>
+                                       <tr>
+                                        <td><img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;"></td>   
+                                        <td>john</td>
+                                        <td>Btech</td>
+                                        <td>principal</td>
                                         <td>
                                             <a href="#">
                                                 <button type="button" class="btn btn-sm social btn-info">
                                                     <i class="fa fa-eye"></i>
                                                 </button>
                                             </a>
-                                            <a href="edit_campaign_schedule.php">
+                                            <a href="edit-head.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
                                                 </button>
@@ -134,6 +123,7 @@
                             </table>
                     
                         </div>
+						
                     </div>
                 </div>
             </div>

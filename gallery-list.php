@@ -6,7 +6,7 @@
     <div class="col-sm-4">
         <div class="page-header float-left">
             <div class="page-title">
-                <h1>Message</h1>
+                <h1>Gallery</h1>
             </div>
         </div>
     </div>
@@ -15,7 +15,7 @@
             <div class="page-title">
                 <ol class="breadcrumb text-right">
                     <li><a href="index.php">Home</a></li>
-                    <li>Message</li>
+                    <li>Gallery</li>
                     <li>List</li>
                 </ol>
             </div>
@@ -30,31 +30,84 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <strong class="card-title">Message List</strong>
+                        <strong class="card-title pull-left"><h3>Gallery List</h3></strong>
+                        <a href="gallary.php" class="card-title pull-right btn-info btn-sm">+Add Gallery</a>
                     </div>
+					
                     <div class="card-body">
+					
                         <div class="table-responsive">
+						<table class="table table-striped table-bordered">
+						<thead>
+						<tr>
+									<th>Banner</th>
+                                        <td><img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;"></td>
+                                       <td>
+                                            <a href="#">
+                                                <button type="button" class="btn btn-sm social btn-info">
+                                                    <i class="fa fa-eye"></i>
+                                                </button>
+                                            </a>
+                                            <a href="edit-gallery.php">
+                                                <button type="button" class="btn btn-sm social btn-primary">
+                                                    <i class="fa fa-edit"></i>
+                                                </button>
+                                            </a>
+                                            <a href="#">
+                                                <button type="button" class="btn btn-sm social btn-danger">
+                                                    <i class="fa fa-trash-o"></i>
+                                                </button>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+									<th>Title</th>
+                                        <td width="40%">gallery list</td>
+                                       <td>
+                                            <a href="#">
+                                                <button type="button" class="btn btn-sm social btn-info">
+                                                    <i class="fa fa-eye"></i>
+                                                </button>
+                                            </a>
+                                            <a href="edit-gallery.php">
+                                                <button type="button" class="btn btn-sm social btn-primary">
+                                                    <i class="fa fa-edit"></i>
+                                                </button>
+                                            </a>
+                                            <a href="#">
+                                                <button type="button" class="btn btn-sm social btn-danger">
+                                                    <i class="fa fa-trash-o"></i>
+                                                </button>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </thead>
+								<tbody>
+								</tbody>
+								</table>
                             <table id="bootstrap-data-table" class="table table-striped table-bordered">
                                 <thead>
                                     <tr>
-                                        <th>S.No</th>
-                                        <th>Name</th>
-                                        <th>Message</th>
+                                        <th>Image</th>
+                                        <th>Title</th>
+                                        <th>Description</th>
+                                        
                                         <th>Action</th>
                                     </tr>
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td>1</td>
-                                        <td>xxxxxxxxx</td>
-                                        <td>xxxxxxxxxxxxxxxxxxx</td>
+                                        <td><img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;"></td>
+                                        <td>school</td>
+                                        
+                                        <td>school</td>
                                         <td>
                                             <a href="#">
                                                 <button type="button" class="btn btn-sm social btn-info">
                                                     <i class="fa fa-eye"></i>
                                                 </button>
                                             </a>
-                                            <a href="edit_message.php">
+                                            <a href="edit-gallery.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
                                                 </button>
@@ -67,16 +120,17 @@
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td>2</td>
-                                        <td>xxxxxxxxx</td>
-                                        <td>xxxxxxxxxxxxxxxxxxx</td>
+                                        <td><img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;"></td>
+                                        <td>school</td>
+                                        
+                                        <td>school</td>
                                         <td>
                                             <a href="#">
                                                 <button type="button" class="btn btn-sm social btn-info">
                                                     <i class="fa fa-eye"></i>
                                                 </button>
                                             </a>
-                                            <a href="edit_message.php">
+                                            <a href="edit-gallery.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
                                                 </button>
@@ -88,17 +142,18 @@
                                             </a>
                                         </td>
                                     </tr>
-                                    <tr>
-                                        <td>3</td>
-                                        <td>xxxxxxxxx</td>
-                                        <td>xxxxxxxxxxxxxxxxxxx</td>
+                                        <tr>
+                                        <td><img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;"></td>
+                                        <td>school</td>
+                                        
+                                        <td>school</td>
                                         <td>
                                             <a href="#">
                                                 <button type="button" class="btn btn-sm social btn-info">
                                                     <i class="fa fa-eye"></i>
                                                 </button>
                                             </a>
-                                            <a href="edit_message.php">
+                                            <a href="edit-gallery.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
                                                 </button>
@@ -114,6 +169,7 @@
                             </table>
                     
                         </div>
+							
                     </div>
                 </div>
             </div>

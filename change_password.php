@@ -53,7 +53,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <button type="submit" class="btn btn-sm btn-primary">Submit</button>
+                            <button type="submit" class="btn btn-sm btn-info">Submit</button>
                         </form>
                     </div>
                 </div>

@@ -1,10 +1,10 @@
 <?php include('header.php'); ?>
 
-<body class="" style="background-image:url('assets/img/mobile-background.png');background-size:cover;">
+<body class="" style="background-image:url('assets/img/school-bg.png');background-size:cover;background-repeat: no-repeat;">
     <div class="container">
         <div class="login-content mx-auto mt-5 pt-5">
-            <div class="login-logo">
-                <img class="align-content" src="assets/img/logo.png" alt="Prachatech">
+            <div class="login-logo" style="">
+                <img class="align-content" src="assets/img/logo.png" alt="Prachatech" >
             </div>
             <div class="login-form">
                 <form method="" action="" id="login_form">

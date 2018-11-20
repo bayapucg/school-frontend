@@ -40,25 +40,25 @@
                                 <div class="col-md-6">
                                     <div class="form-group">
                                         <label class="form-control-label">Name</label>
-                                        <input type="text" id="ep_name" name="ep_name" value="John Deo" class="form-control">
+                                        <input type="text" id="ep_name" name="ep_name" value="John Deo" placeholder="Enter Name" class="form-control">
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-group">
                                         <label class="form-control-label">Email Id</label>
-                                        <input type="email" id="ep_email" name="ep_email" value="Johndeo@gmail.com" class="form-control">
+                                        <input type="email" id="ep_email" name="ep_email" placeholder="Enter Emailid" value="Johndeo@gmail.com" class="form-control">
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-group">
                                         <label class="form-control-label">Phone Number</label>
-                                        <input type="text" id="ep_number" name="ep_number" value="98xxxxxx56" class="form-control">
+                                        <input type="text" id="ep_number" name="ep_number"  placeholder="Enter PhoneNumber" value="98xxxxxx56" class="form-control">
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-group">
                                         <label class="form-control-label">Location</label>
-                                        <input type="text" id="ep_location" name="ep_location" value="Delhi" class="form-control">
+                                        <input type="text" id="ep_location" name="ep_location" placeholder="Enter Location" value="Delhi" class="form-control">
                                     </div>
                                 </div>
                                 <div class="col-md-6">
@@ -68,7 +68,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <button type="submit" class="btn btn-sm btn-primary">Save Changes</button>
+                            <button type="submit" class="btn btn-sm btn-info">Save Changes</button>
                         </form>
                     </div>
                 </div>
