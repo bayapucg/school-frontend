@@ -86,6 +86,19 @@
 							
                             </div>
 							<div class="form-group">
+						<h4 class="text-info">Map</h4>
+						</div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label>Location</label>
+                                        <input type="text" class="form-control" placeholder="Enter Location Link">
+                                    </div>
+                                </div>
+							
+                            </div>
+                             
+							<div class="form-group">
 						<h4 class="text-info">Social Connect</h4>
 						</div>
                             <div class="row">

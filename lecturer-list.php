@@ -43,11 +43,7 @@
 									<th>Title</th>
                                         <td width="40%">lecturer list</td>
                                        <td>
-                                            <a href="#">
-                                                <button type="button" class="btn btn-sm social btn-info">
-                                                    <i class="fa fa-eye"></i>
-                                                </button>
-                                            </a>
+                                            
                                             <a href="edit-lecturer.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
@@ -81,11 +77,7 @@
                                         
                                         <td>head</td>
                                         <td>
-                                            <a href="#">
-                                                <button type="button" class="btn btn-sm social btn-info">
-                                                    <i class="fa fa-eye"></i>
-                                                </button>
-                                            </a>
+                                            
                                             <a href="edit-lecturer.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
@@ -104,11 +96,7 @@
                                         
                                         <td>manager</td>
                                         <td>
-                                            <a href="#">
-                                                <button type="button" class="btn btn-sm social btn-info">
-                                                    <i class="fa fa-eye"></i>
-                                                </button>
-                                            </a>
+                                            
                                             <a href="edit-lecturer.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
@@ -127,11 +115,7 @@
                                         
                                         <td>principal</td>
                                         <td>
-                                            <a href="#">
-                                                <button type="button" class="btn btn-sm social btn-info">
-                                                    <i class="fa fa-eye"></i>
-                                                </button>
-                                            </a>
+                                            
                                             <a href="edit-lecturer.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>

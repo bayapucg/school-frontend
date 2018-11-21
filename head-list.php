@@ -56,11 +56,7 @@
                                         <td>Btech</td>
                                         <td>principal</td>
                                         <td>
-                                            <a href="#">
-                                                <button type="button" class="btn btn-sm social btn-info">
-                                                    <i class="fa fa-eye"></i>
-                                                </button>
-                                            </a>
+                                            
                                             <a href="edit-head.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
@@ -79,11 +75,7 @@
                                         <td>Btech</td>
                                         <td>principal</td>
                                         <td>
-                                            <a href="#">
-                                                <button type="button" class="btn btn-sm social btn-info">
-                                                    <i class="fa fa-eye"></i>
-                                                </button>
-                                            </a>
+                                           
                                             <a href="edit-head.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
@@ -102,11 +94,7 @@
                                         <td>Btech</td>
                                         <td>principal</td>
                                         <td>
-                                            <a href="#">
-                                                <button type="button" class="btn btn-sm social btn-info">
-                                                    <i class="fa fa-eye"></i>
-                                                </button>
-                                            </a>
+                                           
                                             <a href="edit-head.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>

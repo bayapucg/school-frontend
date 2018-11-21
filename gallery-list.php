@@ -43,11 +43,7 @@
 									<th>Banner</th>
                                         <td><img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;"></td>
                                        <td>
-                                            <a href="#">
-                                                <button type="button" class="btn btn-sm social btn-info">
-                                                    <i class="fa fa-eye"></i>
-                                                </button>
-                                            </a>
+                                           
                                             <a href="edit-gallery.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
@@ -64,11 +60,7 @@
 									<th>Title</th>
                                         <td width="40%">gallery list</td>
                                        <td>
-                                            <a href="#">
-                                                <button type="button" class="btn btn-sm social btn-info">
-                                                    <i class="fa fa-eye"></i>
-                                                </button>
-                                            </a>
+                                            
                                             <a href="edit-gallery.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
@@ -104,11 +96,7 @@
 										</td>
                                        
                                         <td>
-                                            <a href="#">
-                                                <button type="button" class="btn btn-sm social btn-info">
-                                                    <i class="fa fa-eye"></i>
-                                                </button>
-                                            </a>
+                                            
                                             <a href="edit-gallery.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
@@ -132,11 +120,7 @@
 										</td>
                                         
                                         <td>
-                                            <a href="#">
-                                                <button type="button" class="btn btn-sm social btn-info">
-                                                    <i class="fa fa-eye"></i>
-                                                </button>
-                                            </a>
+                                            
                                             <a href="edit-gallery.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
@@ -160,11 +144,7 @@
 										</td>
                                        
                                         <td>
-                                            <a href="#">
-                                                <button type="button" class="btn btn-sm social btn-info">
-                                                    <i class="fa fa-eye"></i>
-                                                </button>
-                                            </a>
+                                            
                                             <a href="edit-gallery.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>

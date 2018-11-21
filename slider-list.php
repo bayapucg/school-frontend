@@ -52,11 +52,7 @@
                                        <td>School</td>
                                         <td>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem </td>
                                          <td>
-                                            <a href="#">
-                                                <button type="button" class="btn btn-sm social btn-info">
-                                                    <i class="fa fa-eye"></i>
-                                                </button>
-                                            </a>
+                                           
                                             <a href="edit-slider.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
@@ -75,11 +71,7 @@
                                        <td>School</td>
                                         <td>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem .</td>
                                          <td>
-                                            <a href="#">
-                                                <button type="button" class="btn btn-sm social btn-info">
-                                                    <i class="fa fa-eye"></i>
-                                                </button>
-                                            </a>
+                                           
                                             <a href="edit-slider.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
@@ -98,11 +90,7 @@
                                        <td>School</td>
                                         <td>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem .</td>
                                          <td>
-                                            <a href="#">
-                                                <button type="button" class="btn btn-sm social btn-info">
-                                                    <i class="fa fa-eye"></i>
-                                                </button>
-                                            </a>
+                                           
                                             <a href="edit-slider.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
@@ -135,11 +123,7 @@
                                         
                                         <td>school</td>
                                         <td>
-                                            <a href="#">
-                                                <button type="button" class="btn btn-sm social btn-info">
-                                                    <i class="fa fa-eye"></i>
-                                                </button>
-                                            </a>
+                                            
                                             <a href="edit-slider.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
@@ -158,11 +142,7 @@
                                         
                                         <td>school</td>
                                         <td>
-                                            <a href="#">
-                                                <button type="button" class="btn btn-sm social btn-info">
-                                                    <i class="fa fa-eye"></i>
-                                                </button>
-                                            </a>
+                                            
                                             <a href="edit-slider.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
@@ -181,11 +161,7 @@
                                         
                                         <td>school</td>
                                         <td>
-                                            <a href="#">
-                                                <button type="button" class="btn btn-sm social btn-info">
-                                                    <i class="fa fa-eye"></i>
-                                                </button>
-                                            </a>
+                                            
                                             <a href="edit-slider.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>

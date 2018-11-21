@@ -54,11 +54,7 @@
                                         <td><img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;"></td>   
                                         <td>Success is not a good teacher, failure makes you humble.</td>
                                         <td>
-                                            <a href="#">
-                                                <button type="button" class="btn btn-sm social btn-info">
-                                                    <i class="fa fa-eye"></i>
-                                                </button>
-                                            </a>
+                                            
                                             <a href="edit-quote.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
@@ -76,11 +72,7 @@
                                        
                                         <td>Success is not a good teacher, failure makes you humble.</td>
                                         <td>
-                                            <a href="#">
-                                                <button type="button" class="btn btn-sm social btn-info">
-                                                    <i class="fa fa-eye"></i>
-                                                </button>
-                                            </a>
+                                            
                                             <a href="edit-quote.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
@@ -99,11 +91,7 @@
                                         
                                         <td>Success is not a good teacher, failure makes you humble.</td>
                                         <td>
-                                            <a href="#">
-                                                <button type="button" class="btn btn-sm social btn-info">
-                                                    <i class="fa fa-eye"></i>
-                                                </button>
-                                            </a>
+                                           
                                             <a href="edit-quote.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
