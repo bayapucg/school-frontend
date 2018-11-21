@@ -29,7 +29,7 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <strong class="card-title">ContactUs</strong>
+                        <strong class="card-title pull-left"><h4>ContactUs</h4></strong>
                     </div>
                     <div class="card-body">
                         <form method="" action="contactus.php" >

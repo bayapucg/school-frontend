@@ -16,7 +16,7 @@
                 <ol class="breadcrumb text-right">
                     <li><a href="index.php">Home</a></li>
                     <li>Gallery</li>
-                    <li class="active">List</li>
+                    <li class="active">Edit</li>
                 </ol>
             </div>
         </div>

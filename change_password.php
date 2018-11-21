@@ -48,13 +48,16 @@
                                         <input type="text" id="cp_new" name="cp_new" placeholder="Enter New Password" class="form-control">
                                     </div>
                                 </div>
-                                <div class="col-md-6">
+                                
+                            </div>
+							<div class="row">
+							<div class="col-md-6">
                                     <div class="form-group">
                                         <label>Confirm New Password</label>
                                         <input type="text" id="cp_new_confirm" name="cp_new_confirm" placeholder="Confirm New Password" class="form-control">
                                     </div>
                                 </div>
-                            </div>
+								</div>
 							<div class="text-center">
                             <button type="submit" class="btn btn-md btn-info">Submit</button>
 							</div>
@@ -77,21 +80,21 @@
             cp_old: {
                 validators: {
                     notEmpty: {
-                        message: 'Please enter Name'
+                        message: 'Enter Old Password'
                     }
                 }
             },
             cp_new: {
                 validators: {
                     notEmpty: {
-                        message: 'Please enter mobile number'
+                        message: 'Enter New Password'
                     }
                 }
             },
             cp_new_confirm: {
                 validators: {
                     notEmpty: {
-                        message: 'Please enter email id'
+                        message: 'Enter Confirm Password'
                     }
                 }
             }
