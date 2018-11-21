@@ -12,16 +12,16 @@
             <div class="login-form">
                 <form action="login.php" method="" id="forgot_pass">
                     <div class="form-group">
-  <label class="control-label" >
-    Email ADDRESS
-  </label>
-  <div class="input-group">
-    <div class="input-group-addon">
-      <i class="fa fa-envelope-o" aria-hidden="true"></i>
-    </div>
-    <input class="form-control" placeholder="Email" type="text"	/>
-  </div>
-</div>
+                        <label class="control-label" >
+						Email ADDRESS
+					  </label>
+                        <div class="input-group">
+							<div class="input-group-addon">
+								<i class="fa fa-envelope-o" aria-hidden="true"></i>
+							</div>
+							<input type="email" id="lf_email" name="lf_email" class="form-control" placeholder="Email">
+						</div>
+                    </div>
                     <button type="submit" class="btn btn-info btn-flat m-b-30 m-t-30">Submit</button>
                 </form>
             </div>
@@ -33,19 +33,26 @@
 <?php include('footer.php'); ?>
 
 <script>
-    $(document).ready(function() {
+	$(document).ready(function() {
     $('#forgot_pass').bootstrapValidator({
-
+        
         fields: {
-            fp_email: {
+            lf_email: {
                 validators: {
                     notEmpty: {
                         message: 'Please enter email'
                     }
                 }
+            },
+            lf_password: {
+                validators: {
+                    notEmpty: {
+                        message: 'Please enter password'
+                    }
+                }
             }
             }
         })
-
+     
     });
 </script>

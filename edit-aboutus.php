@@ -30,7 +30,7 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <strong class="card-title">Edit Aboutus</strong><span class="text-info">(upload 1920px width, height 1200px)</span>
+                        <strong class="card-title pull-left"><h4>Edit Aboutus</h4></strong><span class="text-info">(upload 1920px width, height 1200px)</span>
                     </div>
                     <div class="card-body">
                         <form id="defaultForm" method="post" class="m-b-30" action="aboutus.php">

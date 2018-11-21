@@ -30,7 +30,8 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <strong class="card-title"><h4>Add Gallery</h4></strong>
+                        <strong class="card-title pull-left"><h4>Add Gallery</h4></strong>
+						<a href="gallery-list.php" class="card-title pull-right btn btn-sm btn-info">Gallery List</a>
                     </div>
                     <div class="card-body">
                         <form id="defaultForm" method="post" class="m-b-30" action="gallary.php">
@@ -54,7 +55,7 @@
 				<div class="row">
 	<div class="col-md-6">
 			<div class="form-group">
-				<label>Enter Gallary</label>
+				<label>Enter Images</label>
 				<input type="file" class="form-control" multiple>
 				</div>
 				

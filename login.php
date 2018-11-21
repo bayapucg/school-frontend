@@ -16,7 +16,7 @@
 							<div class="input-group-addon">
 								<i class="fa fa-envelope-o" aria-hidden="true"></i>
 							</div>
-							<input class="form-control" placeholder="Email" type="text"	/>
+							<input type="email" id="lf_email" name="lf_email" class="form-control" placeholder="Email">
 						</div>
 					</div>
 					<div class="form-group">
@@ -24,10 +24,10 @@
 						PASSWORD
 					  </label>
 						<div class="input-group">
-							<div >
+							<div class="input-group-addon">
 								<i class="fa fa-key" aria-hidden="true"></i>
 							</div>
-							<input class="form-control" placeholder="Password" type="password"/>
+							<input type="password" id="lf_password" name="lf_password" class="form-control" placeholder="Password">
 						</div>
 					</div>                   
                     <div class="checkbox">

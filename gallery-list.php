@@ -30,7 +30,7 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <strong class="card-title pull-left"><h3>Gallery List</h3></strong>
+                        <strong class="card-title pull-left"><h4>Gallery List</h4></strong>
                         <a href="gallary.php" class="card-title pull-right btn-info btn-sm">+Add Gallery</a>
                     </div>
 					

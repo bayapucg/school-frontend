@@ -30,7 +30,7 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <strong class="card-title pull-left"><h3>Head List</h3></strong>
+                        <strong class="card-title pull-left"><h4>Head List</h4></strong>
                         <a href="schoolhead.php" class="card-title pull-right btn-info btn-sm">+Add Head</a>
                     </div>
 					

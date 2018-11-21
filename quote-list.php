@@ -30,7 +30,7 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <strong class="card-title pull-left"><h3>Quote List</h3></strong>
+                        <strong class="card-title pull-left"><h4>Quote List</h4></strong>
                         <a href="quote.php" class="card-title pull-right btn-info btn-sm">+Add Quote</a>
                     </div>
 					

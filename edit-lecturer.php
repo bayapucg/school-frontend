@@ -30,7 +30,7 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <strong class="card-title">Add Lecturer</strong><span class="valid"></span>
+                        <strong class="card-title pull-left"><h4>Add Lecturer</h4></strong><span class="valid"></span>
                     </div>
                     <div class="card-body">
                         <form id="defaultForm" method="post" class="m-b-30" action="lecturer.php">

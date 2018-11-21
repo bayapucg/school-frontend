@@ -30,7 +30,8 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <strong class="card-title">Head</strong>
+                        <strong class="card-title pull-left"><h4>Head</h4></strong>
+						<a href="head-list.php" class="card-title pull-right btn-info btn-sm">Head List</a>
                     </div>
                     <div class="card-body">
                         <form method="" action="schoolhead.php" id="add_schedule">

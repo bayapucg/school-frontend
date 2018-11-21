@@ -32,7 +32,7 @@
                         <strong class="card-title">Logo</strong>
                     </div>
                     <div class="card-body">
-                        <form method="" action="add_campaign_schedule.php" id="add_schedule">
+                        <form method="" action="nav.php" id="add_schedule">
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="form-group">
@@ -57,7 +57,7 @@
 							<div class="col-md-6">
                                     <div class="form-group">
                                         <label>Keywords</label>
-                                        <input type="text" class="form-control" placeholder="Enter Keyword">
+                                        <input type="text" class="form-control" placeholder="Enter Keywords">
                                     </div>
                                 </div>
                             </div>
