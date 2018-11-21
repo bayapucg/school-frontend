@@ -123,9 +123,7 @@
                             </table>
                     
                         </div>
-						<div class="m-t-20 text-center">
-									<button type="submit" class="btn btn-info" name="signup" value="Sign up">Upload</button>
-																	</div>
+						
                     </div>
                 </div>
             </div>

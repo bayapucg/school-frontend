@@ -16,10 +16,10 @@
                     </div>
 
                     <div class="dropdown for-message">
-                        <button class="btn btn-secondary dropdown-toggle" type="button" id="message" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <!--   <button class="btn btn-secondary dropdown-toggle" type="button" id="message" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             <i class="ti-email"></i>
-<!--                            <span class="count bg-primary">4</span>-->
-                        </button>
+                         <span class="count bg-primary">4</span>
+                        </button>-->
 <!--
                         <div class="dropdown-menu" aria-labelledby="message">
                             <p class="red">You have 4 Mails</p>

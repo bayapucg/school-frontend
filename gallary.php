@@ -30,7 +30,7 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <strong class="card-title">Add Gallery</strong>
+                        <strong class="card-title"><h4>Add Gallery</h4></strong>
                     </div>
                     <div class="card-body">
                         <form id="defaultForm" method="post" class="m-b-30" action="gallary.php">
@@ -51,44 +51,17 @@
 				
 			</div>
 			</div>
+				<div class="row">
+	<div class="col-md-6">
+			<div class="form-group">
+				<label>Enter Gallary</label>
+				<input type="file" class="form-control" multiple>
+				</div>
 				
-								<div class="row"> 
-								<div class="col-md-12"> 
-								
-									<table class="table table-bordered table-hover" id="tab_logic">
-										<thead>
-											<tr >
-												<th class="text-center">
-													Image
-												</th>
-												
-											</tr>
-										</thead>
-										<tbody>
-											<tr id='addr0'>
-												<td>
-													<input type="file" class="form-control">
-												</td>
-												
-												
-											</tr>
-											<tr id='addr1'></tr>
-										</tbody>
-									</table>	
-									<a id="add_row" class="btn btn-info pull-left">Add Row</a>
-									<a id='delete_row' class="pull-right btn btn-info">Delete Row</a>
-									
-								</div>
-								</div>
-							
-								
-								
-							
+			</div>
 		
 			
-						
-							
-								
+			</div>
 								<div class="m-t-20 text-center">
 									<button type="submit" class="btn btn-info" name="signup" value="Sign up">Upload</button>
 																	</div>

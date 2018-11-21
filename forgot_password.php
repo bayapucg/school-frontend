@@ -12,9 +12,16 @@
             <div class="login-form">
                 <form action="login.php" method="" id="forgot_pass">
                     <div class="form-group">
-                        <label>Email address</label>
-                        <input type="email" id="fp_email" name="fp_email" class="form-control" placeholder="Email">
-                    </div>
+  <label class="control-label" >
+    Email ADDRESS
+  </label>
+  <div class="input-group">
+    <div class="input-group-addon">
+      <i class="fa fa-envelope-o" aria-hidden="true"></i>
+    </div>
+    <input class="form-control" placeholder="Email" type="text"	/>
+  </div>
+</div>
                     <button type="submit" class="btn btn-info btn-flat m-b-30 m-t-30">Submit</button>
                 </form>
             </div>

@@ -89,18 +89,20 @@
                                 <thead>
                                     <tr>
                                         <th>Image</th>
-                                        <th>Title</th>
-                                        <th>Description</th>
-                                        
                                         <th>Action</th>
                                     </tr>
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td><img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;"></td>
-                                        <td>school</td>
-                                        
-                                        <td>school</td>
+                                        <td><img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;">
+										<img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;"><img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;">
+										<img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;">
+										<img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;">
+										<img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;">
+										<img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;">
+										<img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;">
+										</td>
+                                       
                                         <td>
                                             <a href="#">
                                                 <button type="button" class="btn btn-sm social btn-info">
@@ -120,10 +122,15 @@
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td><img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;"></td>
-                                        <td>school</td>
+                                         <td><img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;">
+										<img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;"><img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;">
+										<img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;">
+										<img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;">
+										<img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;">
+										<img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;">
+										<img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;">
+										</td>
                                         
-                                        <td>school</td>
                                         <td>
                                             <a href="#">
                                                 <button type="button" class="btn btn-sm social btn-info">
@@ -143,10 +150,15 @@
                                         </td>
                                     </tr>
                                         <tr>
-                                        <td><img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;"></td>
-                                        <td>school</td>
-                                        
-                                        <td>school</td>
+                                         <td><img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;">
+										<img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;"><img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;">
+										<img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;">
+										<img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;">
+										<img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;">
+										<img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;">
+										<img class="img-responsive" src="assets/img/school.jpg" alt="" style="height:50px;width:auto;">
+										</td>
+                                       
                                         <td>
                                             <a href="#">
                                                 <button type="button" class="btn btn-sm social btn-info">

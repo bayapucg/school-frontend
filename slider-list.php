@@ -30,7 +30,7 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <strong class="card-title pull-left"><h3>Slider List</h3></strong>
+                        <strong class="card-title pull-left"><h4>Slider List</h4></strong>
                         <a href="slider.php" class="card-title pull-right btn btn-sm btn-info">+Add Slider</a>
                     </div>
 					

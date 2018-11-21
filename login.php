@@ -8,30 +8,28 @@
             </div>
             <div class="login-form">
                 <form method="" action="" id="login_form">
-                    <div class="form-group">
-  <label class="control-label" >
-    Email ADDRESS
-  </label>
-  <div class="input-group">
-    <div class="input-group-addon">
-      <i class="fa fa-envelope-o" aria-hidden="true"></i>
-    </div>
-    <input class="form-control" placeholder="Enter Emailid" type="text"	/>
-  </div>
-</div>
-  
-  <div class="form-group">
-  <label class="control-label" >
-    PASSWORD
-  </label>
-  <div class="input-group">
-    <div class="input-group-addon">
-      <i class="fa fa-key" aria-hidden="true"></i>
-    </div>
-    <input class="form-control" placeholder="Enter Password" type="text"/>
-  </div>
-</div>
-
+					 <div class="form-group">
+						<label class="control-label" >
+						Email ADDRESS
+					  </label>
+						<div class="input-group">
+							<div class="input-group-addon">
+								<i class="fa fa-envelope-o" aria-hidden="true"></i>
+							</div>
+							<input class="form-control" placeholder="Email" type="text"	/>
+						</div>
+					</div>
+					<div class="form-group">
+						<label class="control-label" >
+						PASSWORD
+					  </label>
+						<div class="input-group">
+							<div >
+								<i class="fa fa-key" aria-hidden="true"></i>
+							</div>
+							<input class="form-control" placeholder="Password" type="password"/>
+						</div>
+					</div>                   
                     <div class="checkbox">
                         <label>
                             <input type="checkbox"> Remember Me

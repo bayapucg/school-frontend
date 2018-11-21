@@ -56,13 +56,23 @@
                                 </div>
 							<div class="col-md-6">
                                     <div class="form-group">
+                                        <label>Keywords</label>
+                                        <input type="text" class="form-control" placeholder="Enter Keyword">
+                                    </div>
+                                </div>
+                            </div>
+							 <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
                                         <label>Description</label>
                                         <input type="text" class="form-control" placeholder="Enter Description">
                                     </div>
                                 </div>
-                            </div>
+							</div>
+							
                             <div class="m-t-20 text-center">
 									<button type="submit" class="btn btn-info" name="signup" value="Sign up">Upload</button>
+									
 																	</div>
                             
                         </form>
