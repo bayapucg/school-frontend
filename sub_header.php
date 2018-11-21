@@ -17,7 +17,7 @@
 
                     <div class="dropdown for-message">
                         <button class="btn btn-secondary dropdown-toggle" type="button" id="message" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            
+                            <i class="ti-email"></i>
 <!--                            <span class="count bg-primary">4</span>-->
                         </button>
 <!--

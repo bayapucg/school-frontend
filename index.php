@@ -52,7 +52,6 @@
             </div>
         </div>
     </div>
-
     <div class="col-xl-4 col-lg-6">
         <div class="card text-white bg-flat-color-2">
             <div class="card-body">
@@ -65,8 +64,6 @@
                 </div>
             </div>
         </div>
-    </div> 
-	
+    </div>   
 </div> <!-- .content -->
-
 <?php include('footer.php'); ?>
