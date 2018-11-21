@@ -43,7 +43,7 @@
         <div class="card text-white bg-flat-color-3">
             <div class="card-body">
                 <div class="stat-widget-one">
-                    <div class="stat-icon dib"><i class="fa fa-tags text-white border-white"></i></div>
+                    <div class="stat-icon dib"><i class="fa fa-book text-white border-white"></i></div>
                     <div class="stat-content dib">
                         <div class="stat-text text-light">No.of Courses</div>
                         <div class="stat-digit text-white">3</div>
@@ -56,7 +56,7 @@
         <div class="card text-white bg-flat-color-2">
             <div class="card-body">
                 <div class="stat-widget-one">
-                    <div class="stat-icon dib"><i class="fa fa-graduation-cap text-white border-white" ></i></div>
+                    <div class="stat-icon dib"><i class="fa fa-graduation-cap text-white border-white"></i></div>
                     <div class="stat-content dib">
                         <div class="stat-text text-light">No.of Registered Students</div>
                         <div class="stat-digit text-white">961</div>

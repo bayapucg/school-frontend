@@ -68,7 +68,9 @@
                                     </div>
                                 </div>
                             </div>
-                            <button type="submit" class="btn btn-sm btn-info">Save Changes</button>
+							<div class="text-center">
+                            <button type="submit" class="btn btn-md btn-info">Save Changes</button>
+							</div>
                         </form>
                     </div>
                 </div>

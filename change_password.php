@@ -40,6 +40,8 @@
                                         <input type="text" id="cp_old" name="cp_old" placeholder="Enter Old Password" class="form-control">
                                     </div>
                                 </div>
+								</div>
+								<div class="row">
                                 <div class="col-md-6">
                                     <div class="form-group">
                                         <label>New Password</label>
@@ -53,7 +55,9 @@
                                     </div>
                                 </div>
                             </div>
-                            <button type="submit" class="btn btn-sm btn-info">Submit</button>
+							<div class="text-center">
+                            <button type="submit" class="btn btn-md btn-info">Submit</button>
+							</div>
                         </form>
                     </div>
                 </div>

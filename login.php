@@ -9,13 +9,29 @@
             <div class="login-form">
                 <form method="" action="" id="login_form">
                     <div class="form-group">
-                        <label>Email address</label>
-                        <input type="email" id="lf_email" name="lf_email" class="form-control" placeholder="Email">
-                    </div>
-                    <div class="form-group">
-                        <label>Password</label>
-                        <input type="password" id="lf_password" name="lf_password" class="form-control" placeholder="Password">
-                    </div>
+  <label class="control-label" >
+    Email ADDRESS
+  </label>
+  <div class="input-group">
+    <div class="input-group-addon">
+      <i class="fa fa-envelope-o" aria-hidden="true"></i>
+    </div>
+    <input class="form-control" placeholder="Enter Emailid" type="text"	/>
+  </div>
+</div>
+  
+  <div class="form-group">
+  <label class="control-label" >
+    PASSWORD
+  </label>
+  <div class="input-group">
+    <div class="input-group-addon">
+      <i class="fa fa-key" aria-hidden="true"></i>
+    </div>
+    <input class="form-control" placeholder="Enter Password" type="text"/>
+  </div>
+</div>
+
                     <div class="checkbox">
                         <label>
                             <input type="checkbox"> Remember Me
