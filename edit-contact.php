@@ -30,7 +30,6 @@
                 <div class="card">
                     <div class="card-header">
                         <strong class="card-title pull-left"><h4>ContactUs</h4></strong>
-						<a href="edit-contact.php" class="card-title pull-right btn btn-sm btn-warning"><i class="fa fa-edit"></i>Edit</a>
                     </div>
                     <div class="card-body">
                         <form method="" action="contactus.php" >
@@ -41,7 +40,7 @@
                                 <div class="col-md-6">
                                     <div class="form-group">
                                         <label>Mail Id</label>
-                                        <input type="text" class="form-control" placeholder="Enter Mailid">
+                                        <input type="text" class="form-control" placeholder="Enter Mailid" value="johnjeo@gmail.com">
                                     </div>
                                 </div>
 							
@@ -59,7 +58,7 @@
 							<div class="col-md-6">
                                     <div class="form-group">
                                         <label>Title</label>
-                                        <input type="text" class="form-control" placeholder="Enter Title">
+                                        <input type="text" class="form-control" placeholder="Enter Title" value="contactus">
                                     </div>
                                 </div>
                             </div>
@@ -67,13 +66,13 @@
                                 <div class="col-md-6">
                                     <div class="form-group">
                                         <label>Phone Number</label>
-                                        <input type="text" class="form-control" placeholder="Enter PhoneNumber">
+                                        <input type="text" class="form-control" placeholder="Enter PhoneNumber" value="856xxxxxx3">
                                     </div>
                                 </div>
 							<div class="col-md-6">
                                     <div class="form-group">
                                         <label>Mail Id</label>
-                                        <input type="text" class="form-control" placeholder="Enter Mailid">
+                                        <input type="text" class="form-control" placeholder="Enter Mailid" value="johnjeo@gmail.com">
                                     </div>
                                 </div>
                             </div>
@@ -81,7 +80,9 @@
                                 <div class="col-md-12">
                                     <div class="form-group">
                                         <label>Address</label>
-                                        <textarea class="form-control" rows="4" placeholder="Enter Address"></textarea>
+                                        <textarea class="form-control" rows="4" placeholder="Enter Address">Plot No. 177, Sri Vani Nilayam, 1st floor,
+Beside Sri Chaitanya High School, Sardar Patel Nagar, Opp Nizampet X-Road, Hyderabad, 
+Telangana - 500072.</textarea>
                                     </div>
                                 </div>
 							
@@ -93,7 +94,7 @@
                                 <div class="col-md-6">
                                     <div class="form-group">
                                         <label>Location</label>
-                                        <input type="text" class="form-control" placeholder="Enter Location Link">
+                                        <input type="text" class="form-control" placeholder="Enter Location Link" value="prachaedu.com">
                                     </div>
                                 </div>
 							
@@ -106,13 +107,13 @@
                                 <div class="col-md-6">
                                     <div class="form-group">
                                         <label>Facebook</label>
-                                        <input type="text" class="form-control" placeholder="Enter Facebook Link">
+                                        <input type="text" class="form-control" placeholder="Enter Facebook Link" value="www.facebook.com">
                                     </div>
                                 </div>
 							<div class="col-md-6">
                                     <div class="form-group">
                                         <label>Twitter</label>
-                                        <input type="text" class="form-control" placeholder="Enter Twitter Link">
+                                        <input type="text" class="form-control" placeholder="Enter Twitter Link" value="www.twitter.com">
                                     </div>
                                 </div>
                             </div>
@@ -120,13 +121,13 @@
                                 <div class="col-md-6">
                                     <div class="form-group">
                                         <label>LinkedIn</label>
-                                        <input type="text" class="form-control" placeholder="Enter LinkedIn Link">
+                                        <input type="text" class="form-control" placeholder="Enter LinkedIn Link" value="www.linkedin.com">
                                     </div>
                                 </div>
 							<div class="col-md-6">
                                     <div class="form-group">
                                         <label>Google+</label>
-                                        <input type="text" class="form-control" placeholder="Enter Google+">
+                                        <input type="text" class="form-control" placeholder="Enter Google+" value="www.gmail.com">
                                     </div>
                                 </div>
                             </div>
