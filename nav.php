@@ -36,13 +36,13 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="form-group">
-                                        <label>Upload Logo</label>
+                                        <label>Upload Favicon</label>
                                         <input type="file" class="form-control">
                                     </div>
                                 </div>
 							<div class="col-md-6">
                                     <div class="form-group">
-                                        <label>Upload Favicon</label>
+                                        <label>Upload Logo</label>
                                         <input type="file" class="form-control">
                                     </div>
                                 </div>
@@ -69,12 +69,9 @@
                                     </div>
                                 </div>
 							</div>
-							
                             <div class="m-t-20 text-center">
 									<button type="submit" class="btn btn-info" name="signup" value="Sign up">Upload</button>
-									
-																	</div>
-                            
+							</div>
                         </form>
                     </div>
                 </div>
@@ -82,53 +79,5 @@
         </div>
     </div><!-- .animated -->
 </div><!-- .content -->
-
-
-
-
 <?php include('footer.php'); ?>
-<script>
-    $(document).ready(function() {
-        $('#add_schedule').bootstrapValidator({
 
-            fields: {
-                as_type: {
-                    validators: {
-                        notEmpty: {
-                            message: 'Type is required'
-                        }
-                    }
-                },
-                as_sms_day: {
-                    validators: {
-                        notEmpty: {
-                            message: 'SMS/day is required'
-                        }
-                    }
-                },
-                as_time: {
-                    validators: {
-                        notEmpty: {
-                            message: 'Time is required'
-                        }
-                    }
-                },
-                as_sdate: {
-                    validators: {
-                        notEmpty: {
-                            message: 'Start date is required'
-                        }
-                    }
-                },
-                as_edate: {
-                    validators: {
-                        notEmpty: {
-                            message: 'End date is required'
-                        }
-                    }
-                },
-            }
-        })
-
-    });
-</script>

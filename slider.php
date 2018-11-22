@@ -30,7 +30,7 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <strong class="card-title pull-left"><h4>Add Slider</h4></strong><span class="text-info">(upload 1920px width, height 1200px)</span>
+                        <strong class="card-title pull-left"><h4>Add Slider</h4></strong><span class="text-info">(upload 1920px width,1200px height )</span>
 						<a href="slider-list.php" class="card-title pull-right btn btn-sm btn-info">Slider List</a>
                     </div>
                     <div class="card-body">
@@ -105,68 +105,18 @@
 									
 								</div>
 								</div>
-							
-								
 								<div class="m-t-20 text-center">
 									<button type="submit" class="btn btn-info" name="signup" value="Sign up">Upload</button>
 																	</div>
 							</form>
-						
                     </div>
                 </div>
             </div>
         </div>
     </div><!-- .animated -->
 </div><!-- .content -->
-
-
-
-
 <?php include('footer.php'); ?>
 <script>
-    $(document).ready(function() {
-        $('#add_schedule').bootstrapValidator({
-
-            fields: {
-                as_type: {
-                    validators: {
-                        notEmpty: {
-                            message: 'Type is required'
-                        }
-                    }
-                },
-                as_sms_day: {
-                    validators: {
-                        notEmpty: {
-                            message: 'SMS/day is required'
-                        }
-                    }
-                },
-                as_time: {
-                    validators: {
-                        notEmpty: {
-                            message: 'Time is required'
-                        }
-                    }
-                },
-                as_sdate: {
-                    validators: {
-                        notEmpty: {
-                            message: 'Start date is required'
-                        }
-                    }
-                },
-                as_edate: {
-                    validators: {
-                        notEmpty: {
-                            message: 'End date is required'
-                        }
-                    }
-                },
-            }
-        })
-
-    });
 	$(document).ready(function(){
       var i=1;
      $("#add_row").click(function(){
