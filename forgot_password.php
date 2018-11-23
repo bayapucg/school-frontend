@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 
 
-<body class="" style="background-image:url('assets/img/school-bg.png');background-size:cover;">
+<body class="" style="background-image:url('assets/img/school-bg.png');background-size:cover;background-repeat:no-repeat;">
     <div class="container">
         <div class="login-content mx-auto mt-5 pt-5">
             <div class="login-logo">
