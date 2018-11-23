@@ -29,7 +29,7 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <strong class="card-title">Change Password</strong>
+                        <strong class="card-title"><h4>Change Password</h4></strong>
                     </div>
                     <div class="card-body">
                         <form method="" action="" id="change_password" name="change_password">

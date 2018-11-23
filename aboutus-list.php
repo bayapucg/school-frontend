@@ -45,7 +45,6 @@
                                         <th>Image</th>
                                         <th>Title</th>
                                         <th>Paragraph</th>
-                                        
                                         <th>Action</th>
                                     </tr>
                                 </thead>
