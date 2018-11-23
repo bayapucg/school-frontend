@@ -40,8 +40,8 @@
 						<div class="row">	
                                 <div class="col-md-6">
                                     <div class="form-group">
-                                        <label>Mail Id</label>
-                                        <input type="text" class="form-control" placeholder="Enter Mailid">
+                                        <label>Email</label>
+                                        <input type="text" class="form-control" placeholder="Enter Email">
                                     </div>
                                 </div>
 							
@@ -72,8 +72,8 @@
                                 </div>
 							<div class="col-md-6">
                                     <div class="form-group">
-                                        <label>Mail Id</label>
-                                        <input type="text" class="form-control" placeholder="Enter Mailid">
+                                        <label>Email</label>
+                                        <input type="text" class="form-control" placeholder="Enter Email">
                                     </div>
                                 </div>
                             </div>

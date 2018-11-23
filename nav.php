@@ -29,7 +29,7 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <strong class="card-title">Logo</strong>
+                        <strong class="card-title"><h4>Logo</h4></strong>
                     </div>
                     <div class="card-body">
                         <form method="" action="nav.php" id="add_schedule">

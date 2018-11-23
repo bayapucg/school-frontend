@@ -29,8 +29,8 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <strong class="card-title pull-left"><h4>Our Count</h4></strong>
-						<a href="edit-count.php" class="card-title pull-right btn btn-sm btn-warning"><i class="fa fa-edit"></i>Edit</a>
+                        <strong class="card-title">Our Count</strong>
+						
                     </div>
                     <div class="card-body">
                         <form method="" action="count.php" >
@@ -38,7 +38,7 @@
                                 <div class="col-md-6">
                                     <div class="form-group">
                                         <label>Teachers</label>
-                                        <input type="text"  placeholder="Enter Teachers count" class="form-control">
+                                        <input type="text"  placeholder="Enter Teachers count" class="form-control" value="23">
                                     </div>
                                 </div>
 								</div>
@@ -46,7 +46,7 @@
                                 <div class="col-md-6">
                                     <div class="form-group">
                                         <label>Courses</label>
-                                        <input type="text"  placeholder="Enter Courses count" class="form-control">
+                                        <input type="text"  placeholder="Enter Courses count" class="form-control" value="23">
                                     </div>
                                 </div>
                                 
@@ -55,7 +55,7 @@
 							<div class="col-md-6">
                                     <div class="form-group">
                                         <label>Students</label>
-                                        <input type="text"  placeholder="Enter Students Count" class="form-control">
+                                        <input type="text"  placeholder="Enter Students Count" class="form-control" value="900">
                                     </div>
                                 </div>
 								</div>

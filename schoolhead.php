@@ -30,7 +30,7 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <strong class="card-title pull-left"><h4>Head</h4></strong>
+                        <strong class="card-title pull-left"><h4>Head</h4></strong><span class="text-info">( image Should be300px width and height 300px )</span>
 						<a href="head-list.php" class="card-title pull-right btn-info btn-sm">Head List</a>
                     </div>
                     <div class="card-body">
