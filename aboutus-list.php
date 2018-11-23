@@ -55,7 +55,6 @@
                                         
                                         <td>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem</td>
                                         <td>
-                                           
                                             <a href="edit-aboutus.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
@@ -73,8 +72,7 @@
                                         <td>school</td>
                                         
                                         <td>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem</td>
-                                        <td>
-                                           
+                                        <td>  
                                             <a href="edit-aboutus.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
@@ -93,8 +91,6 @@
                                         
                                         <td>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem</td>
                                         <td>
-                                           
-										   
                                             <a href="edit-aboutus.php">
                                                 <button type="button" class="btn btn-sm social btn-primary">
                                                     <i class="fa fa-edit"></i>
@@ -109,16 +105,11 @@
                                     </tr>
                                 </tbody>
                             </table>
-                    
                         </div>
-						
                     </div>
                 </div>
             </div>
-
         </div>
     </div><!-- .animated -->
 </div><!-- .content -->
-
-
 <?php include('footer.php'); ?>
