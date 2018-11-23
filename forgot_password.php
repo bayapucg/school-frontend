@@ -44,13 +44,6 @@
                     }
                 }
             },
-            lf_password: {
-                validators: {
-                    notEmpty: {
-                        message: 'Please enter password'
-                    }
-                }
-            }
             }
         })
      

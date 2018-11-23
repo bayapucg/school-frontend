@@ -110,49 +110,6 @@
 
 <?php include('footer.php'); ?>
 <script>
-    $(document).ready(function() {
-        $('#add_schedule').bootstrapValidator({
-
-            fields: {
-                as_type: {
-                    validators: {
-                        notEmpty: {
-                            message: 'Type is required'
-                        }
-                    }
-                },
-                as_sms_day: {
-                    validators: {
-                        notEmpty: {
-                            message: 'SMS/day is required'
-                        }
-                    }
-                },
-                as_time: {
-                    validators: {
-                        notEmpty: {
-                            message: 'Time is required'
-                        }
-                    }
-                },
-                as_sdate: {
-                    validators: {
-                        notEmpty: {
-                            message: 'Start date is required'
-                        }
-                    }
-                },
-                as_edate: {
-                    validators: {
-                        notEmpty: {
-                            message: 'End date is required'
-                        }
-                    }
-                },
-            }
-        })
-
-    });
 	$(document).ready(function(){
       var i=1;
      $("#add_row").click(function(){
