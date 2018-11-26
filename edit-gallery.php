@@ -30,7 +30,7 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <strong class="card-title pull-left"><h4>Add Gallery</h4></strong>
+                        <strong class="card-title pull-left"><h4>Edit Gallery</h4></strong>
                     </div>
                     <div class="card-body">
                         <form id="defaultForm" method="post" class="m-b-30" action="gallary.php">

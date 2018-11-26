@@ -30,7 +30,7 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <strong class="card-title">Head</strong>
+                        <strong class="card-title"><h4>Edit Head</h4></strong>
                     </div>
                     <div class="card-body">
                         <form method="" action="schoolhead.php" >

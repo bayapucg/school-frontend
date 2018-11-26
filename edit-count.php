@@ -29,7 +29,7 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <strong class="card-title">Our Count</strong>
+                        <strong class="card-title"><h4>Edit Count</h4></strong>
 						
                     </div>
                     <div class="card-body">
