@@ -35,7 +35,7 @@
                         <strong class="card-title">Edit Profile</strong>
                     </div>
                     <div class="card-body">
-                        <form method="" action="" id="edit_profile">
+                        <form method="" action="profile.php" id="edit_profile">
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="form-group">
